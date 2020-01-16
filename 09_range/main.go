@@ -10,4 +10,5 @@ func main(){
 	for i, id := range ids {
 		fmt.Printf("%d - ID: %d\n", i, id)
 	}
+	hello := "Hello World"
 }
